@@ -1,7 +1,6 @@
 # amoblando-tu-hogar-
-jose alejandro niño beltran y oscar javier osorio
+José Alejandro Niño Beltrán y Oscar Javier Osorio.
 
 
-Este proyecto esta basado en crear una pajina web  con sus respectiva base de datos y que hayga una 
-intecracion  que permita al cliente  tener una interacco con la pajina web  y que el administrador pueda hacer  
-supapel..
+Este proyecto está basado en crear una página web con sus respectivas bases de datos,
+Que permita al cliente tener una interacción con la respectiva página web, teniendo en cuenta que va tener un administrador el cual tendrá papel de fundamental de administrar dicha página web.
